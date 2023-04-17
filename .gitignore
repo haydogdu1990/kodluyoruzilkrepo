@@ -1,0 +1,7 @@
+.env
+
+deneme.txt
+
+*.jpg
+
+node_module/
